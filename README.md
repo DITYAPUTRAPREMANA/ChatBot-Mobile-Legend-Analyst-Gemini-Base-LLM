@@ -3,7 +3,9 @@ Here's a basic `README.md` for your project:
 ````markdown
 # MLBB Win Predictor and ChatBot
 
-This project includes a **Mobile Legends: Bang Bang (MLBB) Win Probability Predictor**, an **AI-powered ChatBot**, and **Hero Data Scraping** tools, aimed at analyzing and predicting win probabilities based on team compositions and hero statistics. It also allows users to chat with an AI to get insights on gameplay strategies.
+This project includes a **Mobile Legends: Bang Bang (MLBB) Win Probability Predictor**, an **AI-powered ChatBot**, and **Hero Data Scraping** tools,
+aimed at analyzing and predicting win probabilities based on team compositions and hero statistics. It also allows users to chat with an AI to get
+insights on gameplay strategies.
 
 ## Features
 
