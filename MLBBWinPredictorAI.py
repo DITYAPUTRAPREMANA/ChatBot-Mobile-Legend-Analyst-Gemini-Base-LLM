@@ -7,7 +7,7 @@ from langchain_core.messages import HumanMessage
 class MLBBWinPredictorAI:
     """Model AI untuk memprediksi probabilitas menang berdasarkan komposisi tim menggunakan Gemini AI."""
 
-    def __init__(self, json_path: str = "mlbb_hero_stats_ALL_Past_7_days.json", api_key: Optional[str] = None):
+    def __init__(self, json_path: str = "Dataset.json", api_key: Optional[str] = None):
         """Load data hero statistics dari file JSON dan inisialisasi AI."""
         with open(json_path, 'r', encoding='utf-8') as f:
             self.hero_data = json.load(f)
